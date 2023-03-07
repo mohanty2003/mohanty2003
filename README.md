@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://srmohanty.vercel.app)
 <h1 align="center">Hi 👋, I'm Smrutiranjan Mohanty</h1>
 <h3 align="center">A passionate frontend developer | Android developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/92faf99741906dbb8dda6e560d3f6ded20f20564/68747470733a2f2f73756e7365746d65646961776176652e66696c65732e776f726470726573732e636f6d2f323031342f31312f322d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanty2003&label=Profile%20views&color=0e75b6&style=flat" alt="mohanty2003" /> </p>
 
