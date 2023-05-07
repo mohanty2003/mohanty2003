@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Web Developement**
 
-- 👨‍💻 All of my projects are available at [https://srmohanty.vercel.app](https://srmohanty.vercel.app)
+- 👨‍💻 All of my projects are available at [https://srmohanty.vercel.app](https://srmohanty.live/)
 
 - 💬 Ask me about **Android, Google Cloud Console**
 
